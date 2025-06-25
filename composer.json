@@ -1,7 +1,7 @@
 {
-  "name": "drupal/anchor_link",
+  "name": "custom/anchor_link",
   "type": "drupal-module",
-  "description": "CKEditor 5 anchor plugin integration for Drupal 10",
+  "description": "Custom fork of CKEditor 5 Anchor Link module with fixes.",
   "minimum-stability": "dev",
   "prefer-stable": true
 }
